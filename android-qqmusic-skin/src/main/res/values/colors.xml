@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ————————————————————————————————————2014.08.19 更改颜色 白天模式 start———————————————————————————————————— -->
+    <color name="common_top_title_bar_bg_day">#1191f6</color>
+    <!--<color name="common_top_title_bar_bg_night">#005e91</color>-->
+    <!--<color name="common_activity_title_color_night">#55aad8</color>-->
+    <!--<color name="common_activity_title_color_day">#FFFFFF</color>-->
+    <color name="common_content_bg_day">#F4F4F4</color>
+    <color name="common_main_color">#AE7237</color>
+    <color name="common_main_color2">#C6A97D</color>
+    <!--<color name="common_content_bg_night">#0e1929</color>-->
+    <!--<color name="common_content_dynamic_bg_day">#F3F3F3</color>-->
+    <!--<color name="common_content_dynamic_bg_night">#0e1929</color>-->
+    <!--<color name="common_buttom_bg_day">#505050</color>-->
+    <!--<color name="common_buttom_bg_night">#192c46</color>-->
+    <!-- ————————————————————————————————————2014.08.19 更改颜色 白天模式 end———————————————————————————————————— -->
+
+    <!---->
+    <color name="common_line">#DDDDDD</color>
+    <!---->
+    <!-- ————————————————————————————————————基本颜色 start ———————————————————————————————————————————————————— -->
+    <!-- 纯白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 黑色 -->
+    <color name="blue">#2B66CE</color>
+    <color name="black">#000000</color>
+    <color name="green">#0ea000</color>
+    <color name="red">#FF0D0D</color>
+    <color name="edit_hint_color">#4D4D4D</color>
+    <!-- 黑色透明度100%~0% -->
+    <color name="transparent0">#00000000</color>
+    <color name="transparent06">#06000000</color>
+    <color name="transparent1">#10000000</color>
+    <color name="transparent2">#20000000</color>
+    <color name="transparent3">#30000000</color>
+    <color name="transparent4">#40000000</color>
+    <color name="transparent5">#50000000</color>
+    <color name="transparent6">#60000000</color>
+    <color name="transparent7">#70000000</color>
+    <color name="transparent8">#80000000</color>
+    <color name="transparent9">#90000000</color>
+
+    <!-- 白色透明度100%~0% -->
+    <color name="white_transparent0">#00FFFFFF</color>
+    <color name="white_transparent1">#10FFFFFF</color>
+    <color name="white_transparent2">#20FFFFFF</color>
+    <color name="white_transparent3">#30FFFFFF</color>
+    <color name="white_transparent4">#40FFFFFF</color>
+    <color name="white_transparent5">#50FFFFFF</color>
+    <color name="white_transparent6">#60FFFFFF</color>
+    <color name="white_transparent7">#70FFFFFF</color>
+    <color name="white_transparent8">#80FFFFFF</color>
+    <color name="white_transparent9">#90FFFFFF</color>
+    <!-- ————————————————————————————————————基本颜色 end —————————————————————————————————— -->
+
+
+</resources>

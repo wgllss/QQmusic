@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 消息页 start -->
+    <string-array name="home_tabs_array">
+        <item>推荐</item>
+        <item>排行榜</item>
+        <item>搜索</item>
+    </string-array>
+
+
+    <!-- 消息页 end -->
+
+    <!--公共颜色值 start-->
+    <array name="common_white_color">
+        <item>#FFFFFF</item>
+        <item>#FFFFFF</item>
+    </array>
+
+    <array name="common_black_color">
+        <item>#000000</item>
+        <item>#000000</item>
+    </array>
+    <array name="common_light_grey_color">
+        <item>#F5F5F5</item>
+        <item>#F5F5F5</item>
+    </array>
+    <array name="common_line_color">
+        <item>#DDDDDD</item>
+        <item>#DDDDDD</item>
+    </array>
+    <array name="common_menu_name_color">
+        <item>#343434</item>
+        <item>#343434</item>
+    </array>
+    <array name="common_menu_name_color2">
+        <item>#333333</item>
+        <item>#333333</item>
+    </array>
+    <array name="common_menu_name_grey_color">
+        <item>#868686</item>
+        <item>#868686</item>
+    </array>
+    <array name="common_menu_name_light_color">
+        <item>#868686</item>
+        <item>#868686</item>
+    </array>
+
+    <array name="common_toptilebar_bg_color">
+        <item>#0eb000</item>
+        <item>#0eb000</item>
+    </array>
+    <array name="common_content_bg_color">
+        <item>#F4F4F4</item>
+        <item>#F4F4F4</item>
+    </array>
+    <array name="common_activity_title_color">
+        <item>#FCFCFD</item>
+        <item>#FCFCFD</item>
+    </array>
+
+    <array name="common_tab_text_color">
+        <item>#434343</item>
+        <item>#434343</item>
+    </array>
+
+    <array name="common_select_tab_text_color">
+        <item>#0eb000</item>
+        <item>#0eb000</item>
+    </array>
+
+    <array name="common_tab_linebg_color">
+        <item>#0eb000</item>
+        <item>#0eb000</item>
+    </array>
+
+    <!--主色调蓝色-->
+    <array name="common_main_color">
+        <item>#0eb000</item>
+        <item>#0eb000</item>
+    </array>
+
+    <array name="common_main_dark_blue_color">
+        <item>#2050C0</item>
+        <item>#2050C0</item>
+    </array>
+
+    <array name="common_main_light_blue_color">
+        <item>#357ADD</item>
+        <item>#357ADD</item>
+    </array>
+
+    <array name="color_EDEDED">
+        <item>#EDEDED</item>
+        <item>#EDEDED</item>
+    </array>
+    <!--公共颜色值 end-->
+
+
+    <!--公共drawable end-->
+
+    <!-- ————————————————————————————————————————————————————————————皮肤颜色 0：白天，1夜间  start —————————————————————— -->
+    <!-- String 颜色值 #############################  start -->
+    <string-array name="txt_day_black_night_greywhite_style3_string">
+        <item>#989898</item>
+        <item>#999999</item>
+        <item>#a0cde2</item>
+    </string-array>
+    <!-- String 颜色值 #############################  end -->
+
+
+    <!-- color 颜色值 #############################  start -->
+    <!-- 头部条背景色 -->
+    <array name="txt_day_black_night_greywhite_color">
+        <item>#222222</item>
+        <item>#999999</item>
+        <item>#a0cde2</item>
+    </array>
+    <array name="txt_day_grey_night_greyblack_color">
+        <item>#BBBBBB</item>
+        <item>#666666</item>
+        <item>#2e6b8a</item>
+    </array>
+    <array name="refresh_header_text_color">
+        <item>#BBBBBB</item>
+        <item>#666666</item>
+        <item>#2e6b8a</item>
+    </array>
+    <array name="refresh_header_sub_text_color">
+        <item>#aaaaaa</item>
+        <item>#666666</item>
+        <item>#2e6b8a</item>
+    </array>
+    <array name="refresh_bg_color">
+        <item>#E3EDCF</item>
+        <item>#ff0000</item>
+        <item>#2e6b8a</item>
+    </array>
+    <!-- 更多中item bg颜色 -->
+    <array name="item_white_black_bg">
+        <item>#FFFFFF</item>
+        <item>#15253d</item>
+        <item>#15253d</item>
+    </array>
+
+    <!-- 分隔线 -->
+    <array name="txt_line_color">
+        <item>#DDDDDD</item>
+        <item>#0e1929</item>
+    </array>
+
+
+    <!-- color 颜色值 #############################  end -->
+    <!-- ————————————————————————————————————————————————————————————皮肤颜色 0：白天，1夜间  end —————————————————————— -->
+
+
+    <!-- ————————————————————————————————————————————————————————————皮肤 drawable 图片 0：白天，1夜间  start —————————————————————— -->
+
+</resources>

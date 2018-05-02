@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:paddingLeft="15dp">
+
+    <ImageView
+        android:id="@+id/img_song_pic"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <ImageView
+        android:id="@+id/img_play"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignBottom="@+id/img_song_pic"
+        android:layout_alignRight="@+id/img_song_pic"
+        android:padding="10dp"
+        android:src="@drawable/icon_open" />
+
+    <TextView
+        android:id="@+id/txt_accessnum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/img_song_pic"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="5dp"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_song_pic"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/txt_athor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_title"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="14dp" />
+</RelativeLayout>

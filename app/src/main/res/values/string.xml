@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--公共颜色color start-->
+    <string name="color_black">black</string>
+    <string name="color_white">white</string>
+    <string name="color_red">red</string>
+
+    <!--公共颜色color end-->
+
+    <!--公共drawable start-->
+    <string name="drawable_select_transparent0_to_transparent2_bg">select_transparent0_to_transparent2_bg</string>
+    <!--公共drawable end -->
+
+    <!--array color start-->
+    <string name="array_color_common_white_color">common_white_color</string>
+    <string name="array_color_common_black_color">common_black_color</string>
+    <string name="array_color_common_line_color">common_line_color</string>
+    <string name="array_color_common_menu_name_color">common_menu_name_color</string>
+    <string name="array_color_common_menu_name_color2">common_menu_name_color2</string>
+    <string name="array_color_common_menu_name_grey_color">common_menu_name_grey_color</string>
+    <string name="array_color_common_menu_name_light_color">common_menu_name_light_color</string>
+    <string name="array_color_common_activity_title_color">common_activity_title_color</string>
+    <string name="array_color_common_toptilebar_bg_color">common_toptilebar_bg_color</string>
+    <string name="array_color_common_content_bg_color">common_content_bg_color</string>
+    <string name="array_color_common_tab_text_color">common_tab_text_color</string>
+    <string name="array_color_common_select_tab_text_color">common_select_tab_text_color</string>
+    <string name="array_color_common_tab_linebg_color">common_tab_linebg_color</string>
+    <string name="array_color_common_main_color">common_main_color</string>
+    <string name="array_color_common_main_dark_blue_color">common_main_dark_blue_color</string>
+    <string name="array_color_common_main_light_blue_color">common_main_light_blue_color</string>
+    <string name="array_color_common_color_EDEDED">common_color_EDEDED</string>
+    <string name="array_color_common_light_grey_color">common_light_grey_color</string>
+    <!--array color end-->
+
+    <!-- 公共 array drawable start-->
+    <string name="array_drawable_common_corners_white">common_corners_white</string>
+    <string name="array_drawable_common_corners_blue">common_corners_blue</string>
+    <string name="array_drawable_common_select_radio">common_select_radio</string>
+    <string name="array_drawable_common_select_check_box">common_check_box</string>
+    <string name="array_drawable_common_listview_divider_drawable">common_listview_divider_drawable</string>
+    <string name="array_drawable_common_common_top_titlebar_bg_drawable">common_common_top_titlebar_bg_drawable</string>
+    <string name="array_drawable_common_img_back_drawable">common_img_back_drawable</string>
+    <string name="array_drawable_img_more_drawable">common_img_more_drawable</string>
+    <string name="array_drawable_common_switch_button_on">common_switch_button_on</string>
+    <string name="array_drawable_common_switch_button_off">common_switch_button_off</string>
+    <string name="array_drawable_common_corners_blue_gradient">common_corners_blue_gradient</string>
+    <string name="array_drawable_common_corners_blue_stroke">common_corners_blue_stroke</string>
+    <string name="array_drawable_common_corners_grey">common_corners_grey</string>
+    <string name="array_drawable_common_rectangle_blue_gradient">common_rectangle_blue_gradient</string>
+    <string name="array_drawable_common_corners_circle_white">common_corners_circle_white</string>
+    <string name="array_drawable_common_corners_circle_grey">common_corners_circle_grey</string>
+    <string name="array_drawable_common_corners_circle_blue">common_corners_circle_blue</string>
+    <string name="array_drawable_common_drawable_circle_dash_grey">common_drawable_circle_dash_grey</string>
+    <string name="array_drawable_common_wuxing_img">common_wuxing_img</string>
+    <string name="array_drawable_common_jiantou_up">common_jiantou_up</string>
+    <string name="array_drawable_common_jiantou_down">common_jiantou_down</string>
+    <!-- 公共 array drawable end-->
+
+    <string name="array_string_home_tabs_array">home_tabs_array</string>
+
+</resources>
